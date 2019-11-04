@@ -1,1 +1,1 @@
-# paper literature review: a bank of links between research work
+# Literature Review (LR): a bank of links between research works
